@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi there 👋 It’s me <br /> 
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Bilal+MaGdy" alt="Typing SVG" />
+  </a>
+</h2>
 
 - 🔭 I’m currently working on a small web project to practice and learn.
 - 🌱 I’m currently learning React + Node.js
